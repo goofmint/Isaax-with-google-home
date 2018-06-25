@@ -2,6 +2,7 @@ const googlehome = require('google-home-notifier');
 const language = 'ja'; // if not set 'us' language will be used
 const fs = require('fs');
 
+// IPアドレスは各自変更
 googlehome.ip('192.168.0.21', language);
 
 let old_message = '';
