@@ -1,0 +1,12 @@
+{
+ "name": "isaax-unicorn-hat-hd-demo",
+ "description": "python - raspberry-pi",
+ "main": "app.py",
+ "author": "",
+ "license": "",
+ "language": "python",
+ "scripts": {
+  "start": "python3 app.py"
+ },
+ "tag": ""
+}
