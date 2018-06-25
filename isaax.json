@@ -1,12 +1,12 @@
 {
- "name": "isaax-unicorn-hat-hd-demo",
- "description": "python - raspberry-pi",
- "main": "app.py",
+ "name": "isaax-google-home",
+ "description": "Node.js - raspberry-pi",
+ "main": "index.js",
  "author": "",
  "license": "",
  "language": "python",
  "scripts": {
-  "start": "python3 app.py"
+  "start": "node index.js"
  },
  "tag": ""
 }
